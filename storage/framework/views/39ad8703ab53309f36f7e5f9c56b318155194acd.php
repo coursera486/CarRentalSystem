@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\CarRentalSystem\resources\views/admin/booking/index.blade.php ENDPATH**/ ?>
